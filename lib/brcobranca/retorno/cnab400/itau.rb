@@ -33,7 +33,7 @@ module Brcobranca
 
           # :brancos, 29..36 #complemento de registro
           # :uso_da_empresa, 37..61 #identificacao do titulo na empresa
-          parse.field :uso_da_empresa, 62..69
+          parse.field :uso_da_empresa, 37..61
 
           # :nosso_numero,62..69 # identificacao do titulo no banco
           parse.field :nosso_numero, 62..69

@@ -7,6 +7,7 @@ module Brcobranca
       attr_accessor :agencia_sem_dv
       attr_accessor :cedente_com_dv
       attr_accessor :convenio
+      attr_accessor :uso_da_empresa
       attr_accessor :nosso_numero
       attr_accessor :cod_de_ocorrencia
       attr_accessor :tipo_cobranca
